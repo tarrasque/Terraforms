@@ -5,6 +5,7 @@
 Target of taht repository is to create a minimal terraform tempalte for any cloud I'll use.
 
 I can start with the following clouds:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Azure  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. AWS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. GCP
