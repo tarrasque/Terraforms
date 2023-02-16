@@ -29,12 +29,10 @@ Thanks for any suggestion related to imrpvements here.
 
 # Credits
 
-Download binaries/repositories:
-
-### Install Terraform
+### Download binaries/repositories:
+Install Terraform
 [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 
-Video tutorials of data scientists working through the above exercises:
-
-### Sistemista Italiano - Italian Language
+### Video tutorials of data scientists working through the above exercises:
+Sistemista Italiano - Italian Language
 [Sistemista Italiano - [CLOUD] Automatizziamo la creazione di servizi e risorse sul cloud (aws) con Terraform](https://youtu.be/wsW7eQ7phAc)
