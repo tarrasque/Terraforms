@@ -29,6 +29,11 @@ Thanks for any suggestion related to imrpvements here.
 
 # Credits
 
+Download binaries/repositories:
+
+### Install Terraform
+[Install Terraform](https://developer.hashicorp.com/terraform/downloads)
+
 Video tutorials of data scientists working through the above exercises:
 
 ### Sistemista Italiano - Italian Language
