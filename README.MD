@@ -2,7 +2,7 @@
 
 ### Work in progress
 
-Target of taht repository is to create a minimal terraform template for any cloud I'll use.
+Target of that repository is to store some minimal terraform templates for any cloud I'm using.
 
 I can start with the following clouds:
 
