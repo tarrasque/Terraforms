@@ -1,4 +1,4 @@
 # AWS Documentation
 
-Guide from officiel website:
+Guide from official website:
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started
