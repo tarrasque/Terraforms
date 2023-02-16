@@ -21,10 +21,10 @@ Thanks for any suggestion related to imrpvements here.
 
 |	Cloud			                      |	Instances			                          |  Configurations      |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
-|[Azure](/tree/main/Azure)      | 0                                |TBD|
-|[AWS](/tree/main/AWS)  | 1                                |TBD       |
-|[GCP](/tree/main/GCP)							  | 0                |TBD          |
-|[Contabo VPS](/tree/main/Contabo)							      | 0 		            |TBD|
+|[Azure](/Azure)      | 0                                |TBD|
+|[AWS](AWS)  | 1                                |TBD       |
+|[GCP](GCP)							  | 0                |TBD          |
+|[Contabo VPS](Contabo)							      | 0 		            |TBD|
 
 
 # Credits
