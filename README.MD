@@ -24,7 +24,6 @@ Thanks for any suggestion related to imrpvements here.
 |[Azure](Azure)          | 0         |TBD             |
 |[AWS](AWS)              | 1         |TBD             |
 |[GCP](GCP)							 | 0         |TBD             |
-|[Contabo VPS](Contabo)	 | 0 	       |TBD             |
 
 
 # Credits
