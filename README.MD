@@ -9,7 +9,6 @@ I can start with the following clouds:
 * Azure  
 * AWS
 * GCP
-* Contabo 
 
 My goal is to generate a minimal instance as possible, and take note of any posible alternatives.<br>
 Also, I would take some notes to the configuration settings for the instance, the IAM configuration required, and the networking rules.
